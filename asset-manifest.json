@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-scroll-animations/static/css/main.e8262988.chunk.css",
+    "main.js": "/react-scroll-animations/static/js/main.403827ee.chunk.js",
+    "main.js.map": "/react-scroll-animations/static/js/main.403827ee.chunk.js.map",
+    "runtime-main.js": "/react-scroll-animations/static/js/runtime-main.ee47ebe4.js",
+    "runtime-main.js.map": "/react-scroll-animations/static/js/runtime-main.ee47ebe4.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/react-scroll-animations/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.0407ef85.chunk.js": "/react-scroll-animations/static/js/2.0407ef85.chunk.js",
+    "static/js/2.0407ef85.chunk.js.map": "/react-scroll-animations/static/js/2.0407ef85.chunk.js.map",
+    "index.html": "/react-scroll-animations/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/react-scroll-animations/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.e8262988.chunk.css.map": "/react-scroll-animations/static/css/main.e8262988.chunk.css.map",
+    "static/js/2.0407ef85.chunk.js.LICENSE.txt": "/react-scroll-animations/static/js/2.0407ef85.chunk.js.LICENSE.txt",
+    "static/media/moon.ab81903c.png": "/react-scroll-animations/static/media/moon.ab81903c.png",
+    "static/media/mountains_behind.38e14b5c.png": "/react-scroll-animations/static/media/mountains_behind.38e14b5c.png",
+    "static/media/mountains_front.25a10186.png": "/react-scroll-animations/static/media/mountains_front.25a10186.png",
+    "static/media/stars.fb95e3d1.png": "/react-scroll-animations/static/media/stars.fb95e3d1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee47ebe4.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.0407ef85.chunk.js",
+    "static/css/main.e8262988.chunk.css",
+    "static/js/main.403827ee.chunk.js"
+  ]
+}
